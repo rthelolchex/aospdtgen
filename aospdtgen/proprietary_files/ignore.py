@@ -626,6 +626,9 @@ IGNORE_FOLDERS = [
 
 	# RFS symlinks
 	"rfs",
+
+	# Voicecommand (Xiaomi feature)
+	"etc/voicecommand"
 ]
 
 IGNORE_PATHS = [
